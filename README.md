@@ -14,7 +14,7 @@ argparse
 ,collections 
 ,sqlalchemy 
 
-These packages can be installed using pip in your command line (example syntax: 'pip install pandas')
+These packages can be installed using pip in your command line (example syntax: ' pip install pandas ')
 
 # to run the program:
 navigate to your chatDB.py file using cd in the command line (example syntax: cd desktop/dsci551)
