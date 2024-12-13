@@ -2,17 +2,17 @@
 
 # Required Packages
 argparse
-,logging
-,nltk
-,pandas
-,psycopg2 
-,os 
-,random 
-,re 
-,sys 
-,time 
-,collections 
-,sqlalchemy 
+, logging
+, nltk
+, pandas
+, psycopg2
+, os
+, random
+, re
+, sys
+, time
+, collections
+, sqlalchemy
 
 These packages can be installed using pip in your command line (example syntax: `pip install pandas`)
 
